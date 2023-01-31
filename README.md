@@ -1,3 +1,8 @@
+Hi 👋, I'm xiaohj  
+A junior frontend developer, I write 📒JavaScript, ⚛️React, 🥉Vue and 🐞bugs
+
+<br>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-618%20hrs%2047%20mins-blue)
 
