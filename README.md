@@ -1,6 +1,8 @@
 **Hi 👋, I'm xiaohj**  
 **A junior frontend developer, I write 📒JavaScript, ⚛️React, 🥉Vue and 🐞bugs**
 
+<img src="./images/coding-cat.gif" width=300>
+
 <br>
 
 <!--START_SECTION:waka-->
