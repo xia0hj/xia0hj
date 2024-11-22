@@ -40,13 +40,13 @@ Sunday                   243 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-AutoHotkey               13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -62,5 +62,5 @@ AutoHotkey               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/11/2024 00:57:07 UTC
+ Last Updated on 22/11/2024 00:58:07 UTC
 <!--END_SECTION:waka-->
