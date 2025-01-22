@@ -1,13 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-899%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-898%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 211.4 kB Used in GitHub's Storage 
- > 
-> 🏆 22 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -63,5 +61,5 @@ AutoHotkey               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/01/2025 00:52:47 UTC
+ Last Updated on 22/01/2025 00:54:22 UTC
 <!--END_SECTION:waka-->
