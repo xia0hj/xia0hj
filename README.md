@@ -40,15 +40,13 @@ Sunday                   244 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 4 hrs 15 mins       █████████████████████████   99.98 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Obsidian                 4 hrs               ████████████████████████░   94.08 % 
-VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 hrs 15 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -64,5 +62,5 @@ AutoHotkey               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/02/2025 00:55:50 UTC
+ Last Updated on 03/02/2025 00:54:56 UTC
 <!--END_SECTION:waka-->
