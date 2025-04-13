@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-935%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-935%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,14 +42,13 @@ Sunday                   252 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-AutoHotkey               3 mins              █████████████████████████   99.83 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+AutoHotkey               8 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+VS Code                  8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+Windows                  8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -65,5 +64,5 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/04/2025 00:57:50 UTC
+ Last Updated on 13/04/2025 02:28:26 UTC
 <!--END_SECTION:waka-->
