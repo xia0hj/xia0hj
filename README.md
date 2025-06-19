@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-951%20hrs%2023%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
@@ -9,7 +9,7 @@
 
 > 📦 316.8 kB Used in GitHub's Storage 
  > 
-> 🏆 106 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,16 +42,13 @@ Sunday                   253 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 32 mins             ████████████████████████░   96.99 % 
-Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Obsidian                 32 mins             ████████████████████████░   96.47 % 
-VS Code                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  33 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -67,5 +64,5 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/06/2025 01:04:09 UTC
+ Last Updated on 19/06/2025 01:04:04 UTC
 <!--END_SECTION:waka-->
