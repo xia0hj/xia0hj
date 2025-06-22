@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-951%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-951%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
@@ -42,13 +42,13 @@ Sunday                   253 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Obsidian                 0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -64,5 +64,5 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/06/2025 01:03:07 UTC
+ Last Updated on 22/06/2025 01:09:58 UTC
 <!--END_SECTION:waka-->
