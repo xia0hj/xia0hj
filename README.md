@@ -42,13 +42,13 @@ Sunday                   260 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 6 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Obsidian                 6 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  6 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -64,5 +64,5 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/11/2025 01:02:39 UTC
+ Last Updated on 14/11/2025 01:02:34 UTC
 <!--END_SECTION:waka-->
