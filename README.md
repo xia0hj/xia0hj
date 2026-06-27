@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C607%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C609%20hrs%2014%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.67%20million%20lines%20of%20code-blue?style=flat)
 
@@ -42,15 +42,15 @@ Sunday                   262 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    32 hrs 28 mins      ████████████████████████░   95.54 % 
-Markdown                 1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+Other                    30 hrs 12 mins      ████████████████████████░   95.22 % 
+Markdown                 1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
 
 🔥 Editors: 
-Edge                     32 hrs 28 mins      ████████████████████████░   95.57 % 
-Obsidian                 1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+Edge                     30 hrs 12 mins      ████████████████████████░   95.25 % 
+Obsidian                 1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 
 💻 Operating System: 
-Windows                  33 hrs 59 mins      █████████████████████████   100.00 % 
+Windows                  31 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -66,5 +66,5 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/06/2026 02:36:50 UTC
+ Last Updated on 27/06/2026 02:29:55 UTC
 <!--END_SECTION:waka-->
